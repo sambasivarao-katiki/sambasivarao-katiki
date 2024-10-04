@@ -7,9 +7,7 @@
 
 - 🌱 I’m currently learning **Infrastructure as Code**
 
-- 💬 Ask me about **AWS, IoT, Greengrass, AWS Serverless, Django, AWS IAM, Serverless, VPC, Cloud Computation**
-
-- 📫 How to reach me **sambasivarao.ts@outlook.com**
+- 💬 Ask me about **AWS, IoT, Greengrass, AWS Serverless, Django, AWS IAM, Serverless, VPC, Cloud Computation, AZURE, Platform development, Platform design**
 
 <h3 align="left">Technologies, Languages and Tools:</h3>
 <p align="left"> 
@@ -33,11 +31,8 @@
     <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sambasivaraokatiki&show_icons=true&locale=en&layout=compact" alt="sambasivaraokatiki" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sambasivarao-katiki&show_icons=true&locale=en&layout=compact" alt="sambasivarao-katiki" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sambasivaraokatiki&show_icons=true&locale=en" alt="sambasivaraokatiki" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sambasivarao-katiki&show_icons=true&locale=en" alt="sambasivarao-katiki" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sambasivaraokatiki&" alt="sambasivaraokatiki" /></p>
-
-
-<h3 align="left">Resume: <a href="https://github.com/sambasivaraokatiki/sambasivaraokatiki/blob/main/KatikiSambasivaRaoResume.pdf">Katiki Sambasiva Rao Resume</a> </h3>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sambasivarao-katiki&" alt="sambasivarao-katiki" /></p>
